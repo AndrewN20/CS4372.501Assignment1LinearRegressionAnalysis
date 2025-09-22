@@ -1,4 +1,5 @@
 Assignment 1 Linear Regression Analysis for CS4372.501
+
 Created by Andrew Nguyen and Aaron Fredericks
 
 HOW TO RUN:
