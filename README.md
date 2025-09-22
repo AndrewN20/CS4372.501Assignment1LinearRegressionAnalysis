@@ -12,4 +12,5 @@ Make sure you install all of the following libraries using pip (or Anaconda if y
 - Pandas (https://pandas.pydata.org/docs/getting_started/install.html) 
 - Sklearn (https://scikit-learn.org/stable/install.html) 
 - Statsmodels (https://www.statsmodels.org/stable/install.html)
+
 NOTE: We added the actual dataset zip file in this repo, but you would not have to access the dataset from that file. You have to install via Ucimlrepo
